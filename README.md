@@ -1,1 +1,1 @@
-# macd
+# Research for school capstone project
